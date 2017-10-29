@@ -136,4 +136,4 @@ img.onload = function() {
     // }, 1000 / 60);
 };
 
-img.src = 'img/frog.jpg';
+img.src = 'img/myata.jpg';
